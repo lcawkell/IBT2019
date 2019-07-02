@@ -1,0 +1,12 @@
+.root {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.userInfo {
+    position: absolute;
+    right:0px;
+}
+
+.topSection {
+    position: relative;
+}
