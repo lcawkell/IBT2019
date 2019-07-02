@@ -3,9 +3,9 @@
 Your mission, should you choose to accept it, is to:
 
 1. Get the project to run
-2. Uncomment the unimplemented controls in ***Home*** and implement them.
+2. Uncomment and implement all controls in ***Home***.
 3. Add functionality as required to create a simple drag and drop interface to change a todo from InProgress to Complete.
-4. **Show your work and that you are following best practices.**
+4. **Show your work and show that you are following development best practices.**
 5. Fix any bugs and improve the code.
 6. Show your creativity and add something impressive
 
